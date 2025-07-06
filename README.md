@@ -13,9 +13,7 @@
     Computacionales. Siempre he dicho que el conocimiento debe ser 
     gratuito para todos y para todas las generaciones por que nunca deja de crecer.
   </p>
-
-  <img src="https://github.com/IanEmmanuelHernandezSanchez/IanEmmanuelHernandezSanchez/blob/main/ian.jpg" alt="Foto propia" title="Ian"> 
-
+  
   <div>
     <h3>Mis objetivos</h3>
     <ul>
