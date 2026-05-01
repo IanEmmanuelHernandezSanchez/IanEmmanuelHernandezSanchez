@@ -1,6 +1,6 @@
-# ¡Heyyy no se necesita presentación!
+# Bienvenidos
 
-## Por lo mientras esta es una prueba de MarkDown 
+## Este como mi espacio personal de trabajo, donde estarán mis proyectos personales
 
 <!DOCTYPE html>
 <head>
@@ -8,7 +8,6 @@
 </head>
 <body>
   <p class="presentacion">
-    Me lo tomare semi-formal en lo que sigo aprendiendo.
     Soy una persona, estudiante de la carrera de Ing. En Sistemas
     Computacionales. Siempre he dicho que el conocimiento debe ser 
     gratuito para todos y para todas las generaciones por que nunca deja de crecer.
