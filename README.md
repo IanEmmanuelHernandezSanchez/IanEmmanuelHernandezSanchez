@@ -1,6 +1,6 @@
 # Bienvenidos
 
-## Este como mi espacio personal de trabajo, donde estarán mis proyectos personales
+## Este, como mi espacio personal de trabajo es donde estarán mis proyectos personales
 
 <!DOCTYPE html>
 <head>
